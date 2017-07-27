@@ -1,0 +1,11 @@
+{
+  "name": "example-app",
+  "version": "0.1.0",
+  "main": "public/javascripts/app.js",
+  "dependencies": {
+    "h5bp-helpers": "~0.1.0",
+    "d3": "4.7.2",
+    "underscore": "^1.8.3",
+    "bootstrap": "^3.3.7"
+  }
+}
